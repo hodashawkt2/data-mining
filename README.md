@@ -1,3 +1,6 @@
 # Data Mining
+## Student Information
+- Name: Huda Shawkat El-Sayed
+- ID: 211014425 
+- Year: 4th, semester 8 
 
-Fork this repositry and update your readme file to including your name, id and year.
