@@ -1,3 +1,6 @@
 # Data Mining
 
-Fork this repositry and update your readme file to including your name, id and year.
+## Student Info
+- Name: Husda SHawkat
+- ID:211014425
+- Year: 4th, semester 8
